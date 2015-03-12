@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-=======
 En un lugar de 
->>>>>>> 6b914168b92d05c33113cd88f9bd6d9c56f2867d
-nombre no quiero acordarme
-la
-mancha
+la mancha de cuyo
