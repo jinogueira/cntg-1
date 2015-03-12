@@ -1,2 +1,5 @@
 f1
 isto é para a miña funcionalidade 1 (Nacho)
+
+## Ñapa para arranxar o eliminado de usuarios na base de datos.
+## Author: Rafa
